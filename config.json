@@ -1,7 +1,6 @@
 {
-  "ea_mode": "SMART_SAFE", 
-  "auto_news_filter": true,
-  "manual_kill_switch": false,
-  "daily_target_percent": 10.0,
+  "ea_status": "RUN",
+  "emergency_pause": false,
+  "news_guard": "ACTIVE",
   "restricted_hours": ["20:00-21:30", "19:00-19:30"]
 }
